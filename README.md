@@ -1,8 +1,18 @@
 # AI-CHATBOT-WITH-NLP
 
-# NAME - SHIBAM KHADANGA
+**COMPANY**: CODTECH IT SOLUTIONS
 
-#INTERN ID - CT08RN
+**NAME**: SHIBAM KHADANGA
+
+**INTERN ID**: CT08RNW
+
+**DOMAIN**: Python Programming
+
+**BATCH DURATION**: FEBRUARY 20th, 2025 to MARCH 20th, 2025
+
+**MENTOR NAME**: NEELA SANTHOSH
+
+DESCRIPTION OF TASK
 
 An NLP based Chatbot over a simple fully connected neural network architecture using Tensorflow and tflearn. Trained over a custom dataset specified in the JSON file.
 
