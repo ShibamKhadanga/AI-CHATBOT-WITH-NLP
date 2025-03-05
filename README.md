@@ -34,3 +34,6 @@ In Python versions above 3.6 PyAudio is not a supported library and installing P
 
 ## GUI Snippet
 
+
+#OUTPUT 
+![Image](https://github.com/user-attachments/assets/aaa105a5-ecf2-46e6-b38a-30b9e68f9f01)
